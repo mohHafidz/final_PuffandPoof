@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "555634361952",
+    "project_id": "puff-and-poof",
+    "storage_bucket": "puff-and-poof.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555634361952:android:6cbfc9a2ae191c454b2505",
+        "android_client_info": {
+          "package_name": "com.example.final_puffandpoof"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwc9h9E84aZMGYbGvTrxszEbiaV4qu8Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555634361952:android:208ade6265c735ec4b2505",
+        "android_client_info": {
+          "package_name": "com.example.puffandpoof"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwc9h9E84aZMGYbGvTrxszEbiaV4qu8Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555634361952:android:048ea4eb7867064d4b2505",
+        "android_client_info": {
+          "package_name": "com.example.puffandpoof.View"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwc9h9E84aZMGYbGvTrxszEbiaV4qu8Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
